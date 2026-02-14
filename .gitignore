@@ -1,1 +1,17 @@
-/.idea/
+# IDE
+.idea/
+
+# Build outputs
+build/
+cmake-build-*/
+cmake-build-debug/
+
+# Compiled binaries
+*.o
+*.obj
+*.exe
+
+# Runtime generated files (created/overwritten by the game)
+levelone.txt
+leveltwo.txt
+levelthree.txt
